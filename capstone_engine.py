@@ -1,4 +1,3 @@
-"""
 =============================================================================
 🪷 THE RISING LOTUS COLLECTION — VOLUME 3: CAPSTONE ARRAY
 File: capstone_engine.py
